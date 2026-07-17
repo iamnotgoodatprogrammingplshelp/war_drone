@@ -1,3 +1,3 @@
 # DELIVERY-DRONE   
-an opensource pytourch project  ;
-..
+an opensource pytourch project  
+
